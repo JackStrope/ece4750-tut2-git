@@ -5,5 +5,3 @@ banana
 peach
 lemon
 kiwi
-test
-dragonfruit
